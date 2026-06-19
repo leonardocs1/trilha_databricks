@@ -46,7 +46,7 @@ O Databricks mantém linhagem, qualidade, controle e privacidade dos dados em to
 - Automatize o rastreamento de experimentos e a governança
 - Faça o deploy e monitore modelos em escala
 
-![Imagem do Databricks AI](/aulas/aula_01/pic/HP-Chat-GPT-5.0_01.png)
+![Imagem do Databricks AI](aula_01/pic/HP-Chat-GPT-5.0_01.png)
 
 ### 4. Governança de Dados
 
